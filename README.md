@@ -19,6 +19,7 @@ Sou desenvolvedor de software com experiência em automação de postos/frota e 
 - Repositórios de implementação e versionamento permanecem privados.
 
 ### Projetos (cases públicos)
+- [DigitalizaApp — SaaS + currículo online](./cases/DigitalizaApp/) — `Python FastAPI`
 - [DTCSync — agente Windows com autoatualização](./cases/dtcsync/) — `Python`
 - [DTCSync Server — APIs centrais](./cases/dtcsync/-server) — `Python`
 - [Módulo Dashboard — BI operacional](./cases/Modulo_Dashboard/) — `Python (Flask)`
@@ -57,6 +58,7 @@ I’m a software developer with experience in fuel-station/fleet automation and 
 - Implementation and versioning repositories remain private.
 
 ### Projects (public cases)
+- [DigitalizaApp — SaaS + online resume](./cases/DigitalizaApp/) — `Python FastAPI`
 - [DTCSync — Windows agent with auto-update](./cases/dtcsync/) — `Python`
 - [DTCSync Server — central APIs](./cases/dtcsync/-server) — `Python`
 - [Dashboard Module — operational BI](./cases/Modulo_Dashboard/) — `Python (Flask)`
@@ -95,6 +97,7 @@ Soy desarrollador de software con experiencia en automatización de estaciones/f
 - Los repos de implementación y versionado permanecen privados.
 
 ### Proyectos (casos públicos)
+- [DigitalizaApp — SaaS + currículum online](./cases/DigitalizaApp/) — `Python FastAPI`
 - [DTCSync — agente Windows con autoactualización](./cases/dtcsync/) — `Python`
 - [DTCSync Server — APIs centrales](./cases/dtcsync/-server) — `Python`
 - [Módulo Dashboard — BI operativo](./cases/Modulo_Dashboard/) — `Python (Flask)`
