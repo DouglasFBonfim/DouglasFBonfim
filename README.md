@@ -24,6 +24,8 @@ Sou desenvolvedor de software com experiência em automação de postos/frota e 
 - [DigitalizaApp — SaaS + currículo online](./cases/DigitalizaApp/) — `Python FastAPI`
 - [DTCSync — agente Windows com autoatualização](./cases/dtcsync/) — `Python`
 - [DTCSync Server — APIs centrais](./cases/dtcsync-server/) — `Python`
+- [DTC Sync Client — autorização do PDV (desktop)](./cases/dtcsyncclient/) — `Python`
+- [DTC Sync Android — autorização remota do PDV](./cases/dtcsyncandroid/) — `Kotlin / Compose`
 - [Módulo Dashboard — BI operacional](./cases/Modulo_Dashboard/) — `Python (Flask)`
 - [Módulo Dashboard v2 — evolução](./cases/Modulo_Dashboard_v2/) — `Web / Python ecosystem (iteração do dashboard)`
 - [Portal do Cliente — área logada de frota](./cases/Modulo_portal_cliente/) — `React 19`
@@ -46,7 +48,7 @@ Sou desenvolvedor de software com experiência em automação de postos/frota e 
 - [Resumo profissional — visão consolidada](./cases/Resumo/) — `Markdown / documentação de carreira`
 
 ### Stack principal
-Delphi/Object Pascal · Python · PostgreSQL · REST/HTTP · Android (Java) · React/TypeScript · Flask · PHP · Windows packaging
+Delphi/Object Pascal · Python · PostgreSQL · REST/HTTP · Android (Java/Kotlin Compose) · React/TypeScript · Flask · PHP · Windows packaging
 
 ---
 
@@ -63,6 +65,8 @@ I’m a software developer with experience in fuel-station/fleet automation and 
 - [DigitalizaApp — SaaS + online resume](./cases/DigitalizaApp/) — `Python FastAPI`
 - [DTCSync — Windows agent with auto-update](./cases/dtcsync/) — `Python`
 - [DTCSync Server — central APIs](./cases/dtcsync-server/) — `Python`
+- [DTC Sync Client — POS authorization (desktop)](./cases/dtcsyncclient/) — `Python`
+- [DTC Sync Android — remote POS authorization](./cases/dtcsyncandroid/) — `Kotlin / Compose`
 - [Dashboard Module — operational BI](./cases/Modulo_Dashboard/) — `Python (Flask)`
 - [Dashboard Module v2 — evolution](./cases/Modulo_Dashboard_v2/) — `Web / Python ecosystem (iteração do dashboard)`
 - [Customer Portal — logged-in fleet area](./cases/Modulo_portal_cliente/) — `React 19`
@@ -85,7 +89,7 @@ I’m a software developer with experience in fuel-station/fleet automation and 
 - [Professional summary — consolidated view](./cases/Resumo/) — `Markdown / documentação de carreira`
 
 ### Core stack
-Delphi/Object Pascal · Python · PostgreSQL · REST/HTTP · Android (Java) · React/TypeScript · Flask · PHP · Windows packaging
+Delphi/Object Pascal · Python · PostgreSQL · REST/HTTP · Android (Java/Kotlin Compose) · React/TypeScript · Flask · PHP · Windows packaging
 
 ---
 
@@ -102,6 +106,8 @@ Soy desarrollador de software con experiencia en automatización de estaciones/f
 - [DigitalizaApp — SaaS + currículum online](./cases/DigitalizaApp/) — `Python FastAPI`
 - [DTCSync — agente Windows con autoactualización](./cases/dtcsync/) — `Python`
 - [DTCSync Server — APIs centrales](./cases/dtcsync-server/) — `Python`
+- [DTC Sync Client — autorización del PDV (desktop)](./cases/dtcsyncclient/) — `Python`
+- [DTC Sync Android — autorización remota del PDV](./cases/dtcsyncandroid/) — `Kotlin / Compose`
 - [Módulo Dashboard — BI operativo](./cases/Modulo_Dashboard/) — `Python (Flask)`
 - [Módulo Dashboard v2 — evolución](./cases/Modulo_Dashboard_v2/) — `Web / Python ecosystem (iteração do dashboard)`
 - [Portal del Cliente — área autenticada de flota](./cases/Modulo_portal_cliente/) — `React 19`
@@ -124,4 +130,4 @@ Soy desarrollador de software con experiencia en automatización de estaciones/f
 - [Resumen profesional — visión consolidada](./cases/Resumo/) — `Markdown / documentação de carreira`
 
 ### Stack principal
-Delphi/Object Pascal · Python · PostgreSQL · REST/HTTP · Android (Java) · React/TypeScript · Flask · PHP · Windows packaging
+Delphi/Object Pascal · Python · PostgreSQL · REST/HTTP · Android (Java/Kotlin Compose) · React/TypeScript · Flask · PHP · Windows packaging
